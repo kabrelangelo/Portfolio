@@ -15,7 +15,7 @@ const ContactForm = () => {
 						Contact Form
 					</p>
 					<FormInput
-						inputLabel="Full Name"
+						inputLabel="Nom complet"
 						labelFor="name"
 						inputType="text"
 						inputId="name"
